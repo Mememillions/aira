@@ -178,25 +178,93 @@ Threshold: viral_score > 5.0 = worth capturing
 
 ## Competitors to Monitor
 
-| Platform | Competitor Handle | Focus Area |
-|----------|-------------------|------------|
-| Instagram | @... | AI Marketing |
-| TikTok | @... | Tech tutorials |
-| X/Twitter | @... | AI News |
-| LinkedIn | @... | B2B content |
+| Platform | Competitor Handle | Focus Area | Priority |
+|----------|-------------------|------------|----------|
+| TikTok | @aiwithollie | AI news/tutorials | High |
+| TikTok | @ainews | AI industry updates | High |
+| TikTok | @aiforwork | AI productivity | High |
+| TikTok | @ai.baddie | AI trends/community | Medium |
+| TikTok | @viralaicommunity | AI viral content | Medium |
+| TikTok | @jeremynguyen.ai | AI educator | Medium |
+| TikTok | @thelindseysmith | AI strategy | Medium |
+| TikTok | @aistudies | Technical AI | Low |
+| TikTok | @neuralnine | AI tutorials | Low |
+| TikTok | @aibotnicole | AI persona/influencer | Low |
+| TikTok | @aibymonica | AI girl content | Low |
+| TikTok | @marketingwithhumor | Marketing comedy | Medium |
+| TikTok | @digitalmarketingtips | Marketing strategy | Medium |
 
-## Repost Strategy
+### Monitoring Strategy
+- **High Priority:** Check every 2-4 hours during active hours
+- **Medium Priority:** Check 2x daily (morning, evening)
+- **Low Priority:** Daily digest only
 
-### Timing
-- **Immediate repost:** For time-sensitive news
-- **Delayed repost:** For evergreen content (add commentary, wait 24-48h)
-- **Batch repost:** Weekly roundup of best viral content
+## Content Spin Strategy
 
-### Adaptation Rules
-1. **Never copy verbatim** — always rewrite
-2. **Add value** — commentary, insights, contrarian takes
-3. **Tag original** — credit when appropriate
-4. **Adapt format** — carousel → thread, video → text summary, etc.
+### The Process
+
+When a competitor post goes viral (viral_score > 5.0):
+
+**Step 1: Analyze the Hook**
+```
+What made this work?
+├── Emotional trigger? (curiosity, FOMO, aspiration)
+├── Information gap? ("You won't believe...")
+├── Pattern interrupt? (unexpected format/take)
+└── Social proof? (trending, authority mention)
+```
+
+**Step 2: Extract the Core Insight**
+- Strip away their specific examples
+- Keep the underlying principle/method
+- Identify the "aha" moment
+
+**Step 3: Spin with Aira's Voice**
+```
+Original → Aira's Version
+
+"ChatGPT made me $10K" 
+→ "I watched an AI influencer claim ChatGPT made her $10K. 
+    Here's what she didn't tell you about the actual workflow..."
+
+"5 AI tools you need"
+→ "5 AI tools that actually work for Southeast Asian creators 
+    (not just US tech bros)"
+
+"This AI prompt went viral"
+→ "I tested the viral AI prompt everyone's sharing. 
+    3 things worked, 2 were hype."
+```
+
+**Step 4: Add Value Layer**
+- Contrarian take
+- Deeper dive
+- Local/regional context (Southeast Asia focus)
+- Personal experience/testing
+- Actionable next steps
+
+**Step 5: Format Adaptation**
+```
+Competitor Format → Aira Adaptation
+├── Carousel post  → Video narration with text overlay
+├── Talking head   → Screen recording + voiceover
+├── Text-on-screen → Thread/Twitter format
+└── Trend audio    → Original audio + unique take
+```
+
+### Spin Templates
+
+**Template 1: The "Yes, But..."**
+> "Everyone's sharing [viral thing]. Here's what they're getting right... and the part they're missing."
+
+**Template 2: The Local Lens**
+> "[Viral AI trend] is blowing up. Here's what that actually looks like for [Southeast Asian creators / non-US markets]."
+
+**Template 3: The Deep Dive**
+> "I spent 3 hours testing [viral tool/method]. Here's the 90-second version of what actually matters."
+
+**Template 4: The Behind-Scenes**
+> "The viral [post type] everyone's copying? I found the original source. Here's the full story."
 
 ## Technical Stack
 
